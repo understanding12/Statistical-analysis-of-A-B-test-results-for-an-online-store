@@ -5,7 +5,7 @@
 ## Структура проекта
 
 - **data/** - папка с исходными данными в формате CSV
-- **21 выполненное дз попытка 2.ipynb** - Jupyter Notebook с полным решением задач
+- **Statistical-analysis-of-A-B-test-results-for-an-online-store.ipynb** - Jupyter Notebook с полным решением задач
 - **README.md** - настоящее описание проекта
 
 ## Задачи
